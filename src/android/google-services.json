@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "123",
-    "firebase_url": "https://cordova-plugin-firebase.firebaseio.com",
-    "project_id": "cordova-plugin-firebase",
-    "storage_bucket": "cordova-plugin-firebase.appspot.com"
+    "project_number": "102554963047",
+    "firebase_url": "https://ecofriends-lanka.firebaseio.com",
+    "project_id": "ecofriends-lanka",
+    "storage_bucket": "ecofriends-lanka.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:123:android:123",
+        "mobilesdk_app_id": "1:102554963047:android:f617fee34c3698e9",
         "android_client_info": {
-          "package_name": "com.github.cordova_plugin_firebase"
+          "package_name": "com.triolly.ecofriends"
         }
       },
       "oauth_client": [
         {
-          "client_id": "123.apps.googleusercontent.com",
+          "client_id": "102554963047-juaa6s0ipi13gn1t1orm1lvfmp3fged4.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "123"
+          "current_key": "AIzaSyCSYDblu8cpx-t8l6IGBFzEfO905RcBnkk"
         }
       ],
       "services": {
